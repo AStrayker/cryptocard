@@ -1,22 +1,30 @@
-﻿body {
-    font-family: sans-serif;
+/* Здесь будет ваш CSS код для стилизации страницы.
+   Вы можете использовать инструменты разработчика браузера, чтобы
+   инспектировать элементы сайта https://trusteeglobal.com/
+   и скопировать стили, которые вам нравятся. 
+   
+   Пример: */
+
+body {
+    font-family: Arial, sans-serif;
     text-align: center;
+    background-color: #f0f0f0;
 }
 
 header {
+    background-color: #333;
+    color: #fff;
     padding: 20px;
 }
 
-img {
-    max-width: 300px;
-    margin: 20px auto;
-}
-
 button {
-    padding: 10px 20px;
     background-color: #4CAF50;
     color: white;
-    border: none;
-    border-radius: 5px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
     cursor: pointer;
 }
