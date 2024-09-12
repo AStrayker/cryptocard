@@ -1,0 +1,22 @@
+﻿body {
+    font-family: sans-serif;
+    text-align: center;
+}
+
+header {
+    padding: 20px;
+}
+
+img {
+    max-width: 300px;
+    margin: 20px auto;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
